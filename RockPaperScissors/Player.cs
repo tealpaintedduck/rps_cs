@@ -12,7 +12,8 @@ public class Player
 		name = playerName;
 	}
 
-	public Player (){
+	public Player ()
+	{
 		name = "COMPUTER";
 	}
 

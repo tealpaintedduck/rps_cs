@@ -24,10 +24,7 @@ public class Game
 
 	public bool hasWinner()
 	{
-		if (playerOne.gesture == playerTwo.gesture || playerOne.gesture == null || playerTwo.gesture == null )
-			return false;
-		else
-			return true;
+		return !(playerOne.gesture == playerTwo.gesture || playerOne.gesture == null || playerTwo.gesture == null);
 	}
 
 	public int getWinner()
