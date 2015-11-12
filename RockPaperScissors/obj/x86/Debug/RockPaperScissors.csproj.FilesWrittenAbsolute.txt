@@ -1,0 +1,6 @@
+/Users/Sarah/Projects/RockPaperScissors/RockPaperScissors/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Sarah/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe.mdb
+/Users/Sarah/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/RockPaperScissors.exe
+/Users/Sarah/Projects/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.exe
+/Users/Sarah/Projects/RockPaperScissors/RockPaperScissors/obj/x86/Debug/RockPaperScissors.exe.mdb
+/Users/Sarah/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/nunit.framework.dll
